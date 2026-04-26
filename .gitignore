@@ -1,0 +1,17 @@
+# === Prace domowe PJATK / .NET ===
+[Bb]in/
+[Oo]bj/
+
+# === JetBrains (folder .idea) ===
+.idea/
+
+# === Systemowe śmieci (macOS / Windows) ===
+.DS_Store
+Thumbs.db
+__MACOSX/
+
+# === Visual Studio / .NET śmieci ===
+*.user
+*.userosscache
+*.sln.docuser
+.vs/
